@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jssfernandes&label=Views&color=blue&style=plastic" alt="jssfernandes" /> </p>
-
 <a href="https://twitter.com/joseniltonssf">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -46,6 +44,8 @@
 [![Search Selenium ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jssfernandes&repo=search-selenium&show_owner=true&theme=merko)](https://github.com/jssfernandes/search-selenium)
 
 <br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jssfernandes&label=Views&color=blue&style=plastic" alt="jssfernandes" /> </p>
 
 
 
