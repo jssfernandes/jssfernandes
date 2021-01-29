@@ -31,8 +31,13 @@
 
 <br/>
 
+<!-- Com linguagens de utilizadas compactadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssfernandes&layout=compact&theme=merko)](https://github.com/jssfernandes)
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssfernandes&theme=merko)](https://github.com/jssfernandes)
 <img align="top" src='https://github-readme-stats.vercel.app/api?username=jssfernandes&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'></img>
+
 
 ### Some of my projects
 
